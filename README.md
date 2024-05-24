@@ -8,5 +8,6 @@ Hello! I'm Francisco, a computer science Ph.D. student at Brown University. This
 - 🌱 **I’m Currently Learning:** Reinforcement Learning and Machine Learning
 - 🔭 **I’m currently Working On:** Research on LLMs and Their Integration with Traditional Machine Learning Techniques
 
+---
 
 [![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpiedrah&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
