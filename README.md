@@ -10,4 +10,4 @@ Hello! I'm Francisco, a computer science Ph.D. student at Brown University. This
 
 ---
 
-[![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpiedrah&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpiedrah&show_icons=true&theme=tokyonight)]()
