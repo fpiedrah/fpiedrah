@@ -1,6 +1,6 @@
 # Welcome to My GitHub 🤖
 
-Hello! I'm Francisco, a computer science Ph.D. student at Brown University. This GitHub repository is a collection of my projects, showcasing my skills and experiences in Reinforcement Learning and Machine Learning.
+Hello! I'm Francisco, a computer science Ph.D. student at Brown University. This GitHub repository is a collection of my projects.
 
 ## About Me
 
